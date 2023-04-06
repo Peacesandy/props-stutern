@@ -5,6 +5,7 @@ import Logo from './Logo'
 import Header from './Header'
 import Footer from './Footer'
 import Navigation from './Navigation'
+import Input from './Input'
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <Navigation/>
       <Header/>
       <Logo/>
+      <Input/>
       <Button/>
       <Link/>
       <Footer/>
