@@ -3,6 +3,7 @@ import Button from './Button'
 import Link from './Link'
 import Logo from './Logo'
 import Header from './Header'
+import Footer from './Footer'
 
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <Logo/>
       <Button/>
       <Link/>
+      <Footer/>
     </div>
   );
 }
