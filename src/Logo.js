@@ -3,7 +3,7 @@ import myImage from './googlelogo.png'
 
 function Logo(){
     return(
-        <div>
+        <div className='logo'>
        <img src={myImage} className='logo' alt='logo'/>
         </div>
     )
