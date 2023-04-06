@@ -1,5 +1,6 @@
 import React from 'react'
 import myImage from './googlelogo.png'
+import './styles/Logo.css'
 
 function Logo(){
     return(
