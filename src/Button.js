@@ -2,7 +2,10 @@ import React from 'react'
 
 function Button() {
     return(
-        <button>Search Here</button>
+        <div> 
+        <button>Google Search</button>
+        <button>I'm Feeling Lucky</button>
+        </div>
     )
 }
 
