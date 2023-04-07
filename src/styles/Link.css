@@ -3,3 +3,17 @@
     text-align: center;
     justify-content: center;
 }
+
+a{
+    padding: 12px 14px;
+    color: blue;
+}
+
+a:link{
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
