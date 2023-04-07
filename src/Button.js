@@ -4,7 +4,7 @@ import './styles/Button.css'
 function Button() {
     return(
         <div className='btn'> 
-        <button>Google Search</button>
+        <button className='btn-search'>Google Search</button>
         <button>I'm Feeling Lucky</button>
         </div>
     )

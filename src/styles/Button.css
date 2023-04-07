@@ -2,4 +2,9 @@
     display: flex;
     justify-content: center;
     padding-top: 30px;
+    cursor: pointer;
+}
+
+.btn-search{
+    margin-right: 50px;
 }
