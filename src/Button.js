@@ -5,7 +5,7 @@ function Button() {
     return(
         <div className='btn'> 
         <button className='btn-search'>Google Search</button>
-        <button>I'm Feeling Lucky</button>
+        <button className='btn-lucky'>I'm Feeling Lucky</button>
         </div>
     )
 }

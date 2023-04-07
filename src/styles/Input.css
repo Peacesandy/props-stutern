@@ -10,9 +10,15 @@ input{
    margin: 8px 0px;
    height: 20px;
    border-radius: 22px;
-   border: grey;
+   border: none grey;
+   box-shadow: 0 0 15px 4px rgba(253, 244, 244, 0.904);
 }
 
-input:focus{
-    border: grey;
+input[type=text]{
+    box-shadow: 0 0 15px 4px rgba(253, 244, 244, 0.904);
+    border: none;
 }
+
+
+
+

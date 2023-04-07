@@ -7,7 +7,7 @@ function Input() {
          <form>
             <div className='input-group'>
                <label></label>
-               <input type='text' id='name' value='Search Google...'/>
+               <input type='text' id='name' value='Search Google...' className='input-text'/>
             </div>
          </form>
         </div>

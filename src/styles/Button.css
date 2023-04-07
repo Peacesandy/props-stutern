@@ -2,9 +2,27 @@
     display: flex;
     justify-content: center;
     padding-top: 30px;
-    cursor: pointer;
 }
 
 .btn-search{
-    margin-right: 50px;
+    margin-right: 20px;
+    padding: 12px 8px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.btn-search:hover{
+    box-shadow: 0px 2px 2px;
+}
+
+.btn-lucky{
+    padding: 12px 8px;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+}
+
+.btn-lucky:hover{
+    box-shadow: 0px 2px 2px;
 }
